@@ -39,7 +39,7 @@
 
 <h4 style="line-height: 100%;">You can tell what's going to happen, and so does Python, which is why it switches to higher capacity data methods, leading to an increase in computing time. And from there, we carry on until we eventually reach the maximum recursion depth errors. </h4>
 
-![Recursion Error](figures/error.png)
+![Recursion Error](figures/error.PNG)
 
 ### **Though I was not done, and felt unsatisfied. *Surely*, there's a way to compute bigger numbers**</h3>
 ### **Enter *Matrix Multiplication*, the mathmatecally backed method of "1, 2, skip a few, 100"**</h3>
