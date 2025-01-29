@@ -34,10 +34,11 @@
 * <h5 style="line-height: 100%;">90th Fibonacci number: 2,880,067,194,370,816,120</h5>
 * <h5 style="line-height: 100%;">91st Fibonacci number: 4,679,946,161,537,630,720</h5>
 * <h5 style="line-height: 100%;">92nd Fibonacci number: 7,540,113,804,746,346,429</h5>
-* ***<h4 style="line-height: 100%;">64 bit int max value: 9,223,372,036,854,775,807</h4>***
+* *<h4 style="line-height: 100%;">64 bit int max value: 9,223,372,036,854,775,807</h4>*
 
 
 <h4 style="line-height: 100%;">You can tell what's going to happen, and so does Python, which is why it switches to higher capacity data methods, leading to an increase in computing time. And from there, we carry on until we eventually reach the maximum recursion depth errors. </h4>
+
 ![Recursion Error](figures/error.png)
 
 ### **Though I was not done, and felt unsatisfied. *Surely*, there's a way to compute bigger numbers**</h3>
